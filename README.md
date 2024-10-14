@@ -18,6 +18,13 @@ See [Vite Configuration Reference](https://vite.dev/config/).
 
 ```sh
 npm install
+
+```
+
+### Run Storybook
+
+```sh
+npm run storybook
 ```
 
 ### Compile and Hot-Reload for Development
